@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1717146686 source:e:\documents\opengl projects\car\main.c
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<math.h>
+
